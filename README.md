@@ -35,21 +35,6 @@ Upload your resume, get instant **ATS-style scoring**, and track your applicatio
 
 ---
 
-## 🚀 Getting Started
+#
 
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/yourusername/ScanMyResume.git](https://github.com/yourusername/ScanMyResume.git)
-    ```
-2.  **Install dependencies**
-    ```bash
-    npm install
-    ```
-3.  **Run the development server**
-    ```bash
-    npm run dev
-    ```
 
----
-
-*Developed with ❤️ by Abhishek C K*
